@@ -15,7 +15,8 @@
    <img src="screenproducts.png" alt="Preview da Home" width="50%" />
 </div>
 
-[![Vercel Link](https://img.shields.io/badge/🔗%20LinkedIn%20Demo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://star-bucks-deploy-vercel.vercel.app/)
+> Acesse o Link do Deploy:
+[![Vercel](https://img.shields.io/badge/🚀%20Deploy%20na%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://star-bucks-deploy-vercel.vercel.app/)
 
 ---
 
