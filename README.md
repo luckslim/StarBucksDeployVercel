@@ -12,7 +12,7 @@
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Homepage+Preview" alt="Preview da Home" width="80%" />
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324882457890058240?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
 </div>
 
 ---
