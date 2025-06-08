@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Checkout StarBucks
 
-## Getting Started
-
-First, run the development server:
+Tecnologias & features Utilizadas:
 
 ```bash
 npm run dev
