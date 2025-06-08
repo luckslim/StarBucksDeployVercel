@@ -11,7 +11,7 @@
 
 ## 🖼️ Preview
 
-[![LinkedIn](https://img.shields.io/badge/Assista%20no%20LinkedIn-0077b5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7324882457890058240)
+https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324882457890058240?compact=1
 
 
 ---
