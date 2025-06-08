@@ -12,7 +12,7 @@
 ## 🖼️ Preview
 <div align="center">
   <img src="screenHome.png" alt="Preview da Home" width="300px" />
-   <img src="screenproducts.png" alt="Preview da Home" width="300px" />
+   <img src="screenproducts.png" alt="Preview da Home" width="100%" />
 </div>
 
 
