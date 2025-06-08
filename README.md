@@ -1,6 +1,6 @@
 # 🚀 Checkout StarBucks
 
-![status](https://img.shields.io/badge/status-em%20Concluído-yellow?style=flat-square)
+![status](https://img.shields.io/badge/status-Concluído-green?style=flat-square)
 ![licença](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![pull-requests](https://img.shields.io/badge/PRs-bem%20vindos-brightgreen?style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/seuusuario/repositorio?style=social)
