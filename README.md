@@ -5,7 +5,7 @@
 ![pull-requests](https://img.shields.io/badge/PRs-bem%20vindos-brightgreen?style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/seuusuario/repositorio?style=social)
 
-> 🧾 Um sistema moderno de checkout com comanda digital. Clientes compram os produtos, pagam com Stripe e retiram no balcão! Ideal para cafeterias e lanchonetes 🍩☕️
+> 🧾 Um sistema moderno de checkout com comanda digital. Clientes selecionam os produtos, pagam com Stripe e retiram no balcão! Ideal para cafeterias e lanchonetes 🍩☕️
 
 ---
 
