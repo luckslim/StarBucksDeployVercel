@@ -10,8 +10,9 @@
 ---
 
 ## 🖼️ Preview
-
-
+<div align="center">
+  <img src="screenHome.png" alt="Preview da Home" width="80%" />
+</div>
 
 
 ---
