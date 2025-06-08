@@ -1,34 +1,60 @@
-## Checkout StarBucks
+# 🚀 Checkout StarBucks
 
-Tecnologias & features Utilizadas:
+![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
+![licença](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![pull-requests](https://img.shields.io/badge/PRs-bem%20vindos-brightgreen?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/seuusuario/repositorio?style=social)
+
+> 🧾 Um sistema moderno de checkout com comanda digital. Clientes compram os produtos, pagam com Stripe e retiram no balcão! Ideal para cafeterias e lanchonetes 🍩☕️
+
+---
+
+## 🖼️ Preview
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Homepage+Preview" alt="Preview da Home" width="80%" />
+</div>
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Descrição |
+|------------|-----------|
+| ⚛️ React     | Frontend com componentes reutilizáveis |
+| 🐍 Node.js   | Backend com API de pedidos |
+| 🐘 PostgreSQL| Banco de dados relacional |
+| 💳 Stripe    | Integração de pagamento segura |
+| 🐳 Docker    | Ambientes isolados e replicáveis |
+| 🔐 NextAuth  | Autenticação com Google |
+
+---
+
+## ✨ Features
+
+- 🔐 Login com conta Google
+- 🛒 Adição de produtos ao carrinho
+- 💳 Pagamento com Stripe
+- 📄 Geração de comanda digital (ID/QR Code)
+- 🧾 Histórico de pedidos
+- 📱 Interface mobile-friendly
+- 🚀 Deploy em Vercel
+
+---
+
+## 🚀 Como rodar localmente
 
 ```bash
+# Clone o repositório
+git clone <link do repositório >
+
+# Entre na pasta
+cd seuprojeto
+
+# Instale as dependências
+npm install
+
+# Configure ou crie o arquivo .env (Stripe, Auth, DB, etc.)
+
+# Rode a aplicação
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
