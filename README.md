@@ -11,21 +11,20 @@
 
 ## 🖼️ Preview
 
-https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324882457890058240?compact=1
+
 
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia | Descrição |
-|------------|-----------|
-| ⚛️ React     | Frontend com componentes reutilizáveis |
-| 🐍 Node.js   | Backend com API de pedidos |
-| 🐘 PostgreSQL| Banco de dados relacional |
-| 💳 Stripe    | Integração de pagamento segura |
-| 🐳 Docker    | Ambientes isolados e replicáveis |
-| 🔐 NextAuth  | Autenticação com Google |
+| Tecnologia     | Descrição |
+|----------------|-----------|
+| ⚡ **Next.js**      | Framework React para SSR, SSG e API routes |
+| 🐍 **Node.js**      | Backend JavaScript leve e performático |
+| 🍃 **MongoDB Atlas** | Banco de dados NoSQL gerenciado na nuvem |
+| 💳 **Stripe**       | Pagamentos online com checkout integrado |
+| 🔐 **NextAuth.js**  | Autenticação moderna com provedores como Google |
 
 ---
 
@@ -34,9 +33,9 @@ https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324882457890058240?co
 - 🔐 Login com conta Google
 - 🛒 Adição de produtos ao carrinho
 - 💳 Pagamento com Stripe
-- 📄 Geração de comanda digital (ID/QR Code)
+- 📄 Geração de comanda digital (ID)
 - 🧾 Histórico de pedidos
-- 📱 Interface mobile-friendly
+- 📱 Interface friendly
 - 🚀 Deploy em Vercel
 
 ---
