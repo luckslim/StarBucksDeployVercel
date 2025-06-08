@@ -9,22 +9,13 @@
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview-  <a href="https://star-bucks-deploy-vercel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Deploy%20na%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 <div align="center">
   <img src="screenHome.png" alt="Preview da Home" width="30%" />
    <img src="screenproducts.png" alt="Preview da Home" width="50%" />
 </div>
-
-
-
-
-<p>
-  <strong>Acesse o Link do Deploy:</strong>
-  <a href="https://star-bucks-deploy-vercel.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Deploy%20na%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
